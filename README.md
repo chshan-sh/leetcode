@@ -1,2 +1,2 @@
-# co.howie.leetcode
+# com.howie.leetcode
 leetcode
